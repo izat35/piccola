@@ -594,7 +594,7 @@ function saveEditor() {
     }
   });
   
-  const jsonStr = JSON.stringify(DATA);
+  const jsonStr = JSON.stringify(DATA, null, 4);
   const blob = new Blob([jsonStr], { type: 'application/json' });
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
