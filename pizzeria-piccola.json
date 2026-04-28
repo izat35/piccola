@@ -1486,22 +1486,22 @@
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
+                ],
+                "30cm": [
                     "8,50",
                     "8,50",
                     "8,50",
                     "8,50"
                 ],
-                "30cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
-                ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -1512,8 +1512,8 @@
         "43": {
             "name": "Pizza Fabio",
             "price": {
-                "24cm": "9,50",
-                "30cm": "10,50",
+                "24cm": "9,00",
+                "30cm": "10,00",
                 "40cm": "20,00"
             },
             "desO": "Thunfisch, Zwiebeln, Spinat, Krabben, Käse, Knoblauch, scharf",
@@ -1521,22 +1521,22 @@
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ],
                 "30cm": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ],
                 "40cm": [
-                    "20,00",
-                    "20,00",
-                    "20,00",
-                    "20,00"
+                    "19,00",
+                    "19,00",
+                    "19,00",
+                    "19,00"
                 ]
             },
             "stype": [
@@ -1582,31 +1582,31 @@
         "45": {
             "name": "Anna",
             "price": {
-                "24cm": "8,50",
-                "30cm": "9,50",
-                "40cm": "18,00"
+                "24cm": "8,00",
+                "30cm": "9,00",
+                "40cm": "17,00"
             },
             "desO": "Thunfisch, Schinken, Ananas",
             "zusatz": "1,A,B,C,F,3,4,5",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
                 ],
                 "30cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -1654,7 +1654,7 @@
             "price": {
                 "24cm": "8,50",
                 "30cm": "9,50",
-                "40cm": "18,00"
+                "40cm": "17,00"
             },
             "desO": "Thunfisch, Paprika, Zwiebeln",
             "zusatz": "1,A,B,C,F",
@@ -1673,10 +1673,10 @@
                     "9,50"
                 ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -1827,9 +1827,9 @@
         "52": {
             "name": "Catania",
             "price": {
-                "24cm": "8,50",
-                "30cm": "9,50",
-                "40cm": "18,00"
+                "24cm": "8,00",
+                "30cm": "9,00",
+                "40cm": "17,00"
             },
             "desO": "Champignons, Zwiebeln, Paprika, Schinken",
             "zusatz": "1,A,B,C,3,4,5",
@@ -1842,16 +1842,16 @@
                     "8,50"
                 ],
                 "30cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -1967,12 +1967,47 @@
         "56": {
             "name": "Barbecue",
             "price": {
+                "24cm": "8,50",
+                "30cm": "9,50",
+                "40cm": "18,00"
+            },
+            "desO": "Hähnchenfleisch & Zwiebeln",
+            "zusatz": "1,A,B,C",
+            "section": "Pizza",
+            "priceV2": {
+                "24cm": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ],
+                "30cm": [
+                    "9,50",
+                    "9,50",
+                    "9,50",
+                    "9,50"
+                ],
+                "40cm": [
+                    "18,00",
+                    "18,00",
+                    "18,00",
+                    "18,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "57": {
+            "name": "Longobucco",
+            "price": {
                 "24cm": "9,00",
                 "30cm": "10,00",
                 "40cm": "19,00"
             },
-            "desO": "Hähnchenfleisch & Zwiebeln",
-            "zusatz": "1,A,B,C",
+            "desO": "Thunfisch, Babymuscheln, Krabben, Knoblauch",
+            "zusatz": "1,A,B,C,F,H,K",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
@@ -1999,69 +2034,34 @@
                 1
             ]
         },
-        "57": {
-            "name": "Longobucco",
-            "price": {
-                "24cm": "9,50",
-                "30cm": "10,50",
-                "40cm": "20,00"
-            },
-            "desO": "Thunfisch, Babymuscheln, Krabben, Knoblauch",
-            "zusatz": "1,A,B,C,F,H,K",
-            "section": "Pizza",
-            "priceV2": {
-                "24cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
-                ],
-                "30cm": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
-                ],
-                "40cm": [
-                    "20,00",
-                    "20,00",
-                    "20,00",
-                    "20,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ]
-        },
         "58": {
             "name": "Barrafranca",
             "price": {
-                "24cm": "10,00",
-                "30cm": "11,00",
-                "40cm": "21,00"
+                "24cm": "9,00",
+                "30cm": "10,00",
+                "40cm": "18,00"
             },
             "desO": "Thunfisch, Zwiebeln, Krabben, Sardellen, Kapern, Knoblauch",
             "zusatz": "1,A,B,C,F,H,K",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
+                ],
+                "30cm": [
                     "10,00",
                     "10,00",
                     "10,00",
                     "10,00"
                 ],
-                "30cm": [
-                    "11,00",
-                    "11,00",
-                    "11,00",
-                    "11,00"
-                ],
                 "40cm": [
-                    "21,00",
-                    "21,00",
-                    "21,00",
-                    "21,00"
+                    "18,00",
+                    "18,00",
+                    "18,00",
+                    "18,00"
                 ]
             },
             "stype": [
@@ -2072,31 +2072,31 @@
         "59": {
             "name": "Pizza Sicilia",
             "price": {
-                "24cm": "8,50",
-                "30cm": "9,50",
-                "40cm": "18,00"
+                "24cm": "8,00",
+                "30cm": "9,00",
+                "40cm": "17,00"
             },
             "desO": "fr. Paprika, Oliven, Sardellen",
             "zusatz": "1,A,B,C,F",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
                 ],
                 "30cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -2107,31 +2107,31 @@
         "60": {
             "name": "Don",
             "price": {
-                "24cm": "8,50",
-                "30cm": "9,50",
-                "40cm": "18,00"
+                "24cm": "8,00",
+                "30cm": "9,00",
+                "40cm": "17,00"
             },
             "desO": "mit frischen Tomaten, Mozzarella (scharf)",
             "zusatz": "1,A,B,C",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
                 ],
                 "30cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -2247,31 +2247,31 @@
         "64": {
             "name": "Mamma Mia",
             "price": {
-                "24cm": "8,50",
-                "30cm": "9,50",
-                "40cm": "18,00"
+                "24cm": "8,00",
+                "30cm": "9,00",
+                "40cm": "17,00"
             },
             "desO": "Schinken, Broccoli, Spargel",
             "zusatz": "1,A,B,C,3,4,5",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
                 ],
                 "30cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -2282,31 +2282,31 @@
         "65": {
             "name": "Altstadt",
             "price": {
-                "24cm": "8,50",
-                "30cm": "9,50",
-                "40cm": "18,00"
+                "24cm": "8,00",
+                "30cm": "9,00",
+                "40cm": "17,00"
             },
             "desO": "Schinken, Champignons, Thunfisch, Paprika, scharf",
             "zusatz": "1,A,B,C,F,3,4,5",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
                 ],
                 "30cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -2387,31 +2387,31 @@
         "68": {
             "name": "Italia",
             "price": {
-                "24cm": "9,00",
-                "30cm": "10,00",
-                "40cm": "19,00"
+                "24cm": "8,00",
+                "30cm": "9,00",
+                "40cm": "17,00"
             },
             "desO": "Zwiebeln, Paprika, Spinat, Knoblauch",
             "zusatz": "1,A,B,C",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
+                ],
+                "30cm": [
                     "9,00",
                     "9,00",
                     "9,00",
                     "9,00"
                 ],
-                "30cm": [
-                    "10,00",
-                    "10,00",
-                    "10,00",
-                    "10,00"
-                ],
                 "40cm": [
-                    "19,00",
-                    "19,00",
-                    "19,00",
-                    "19,00"
+                    "17,00",
+                    "17,00",
+                    "17,00",
+                    "17,00"
                 ]
             },
             "stype": [
@@ -2422,31 +2422,17 @@
         "69": {
             "name": "Bomba Maccheroni",
             "price": {
-                "24cm": "10,00",
-                "30cm": "11,00",
-                "40cm": "21,00"
+                "30cm": "10,00"
             },
             "desO": "gefüllt mit Bolognesesauce & Maccheroni",
             "zusatz": "1,A,B,C",
             "section": "Pizza",
             "priceV2": {
-                "24cm": [
+                "30cm": [
                     "10,00",
                     "10,00",
                     "10,00",
                     "10,00"
-                ],
-                "30cm": [
-                    "11,00",
-                    "11,00",
-                    "11,00",
-                    "11,00"
-                ],
-                "40cm": [
-                    "21,00",
-                    "21,00",
-                    "21,00",
-                    "21,00"
                 ]
             },
             "stype": [
@@ -2492,17 +2478,17 @@
         "71": {
             "name": "Insalata Verde",
             "price": {
-                "stand": "8,00"
+                "stand": "7,50"
             },
             "desO": "grüner Salat",
             "zusatz": "",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "8,00",
-                    "8,00",
-                    "8,00",
-                    "8,00"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -2566,17 +2552,17 @@
         "72": {
             "name": "Insalata Pomodori (klein)",
             "price": {
-                "stand": "8,00"
+                "stand": "7,50"
             },
             "desO": "Tomatensalat",
             "zusatz": "",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "8,00",
-                    "8,00",
-                    "8,00",
-                    "8,00"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -2640,17 +2626,17 @@
         "73": {
             "name": "Insalata di Cetrioli (klein)",
             "price": {
-                "stand": "8,50"
+                "stand": "7,50"
             },
             "desO": "Gurkensalat",
             "zusatz": "",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -2714,17 +2700,17 @@
         "74": {
             "name": "Insalata Mista",
             "price": {
-                "stand": "8,50"
+                "stand": "7,50"
             },
             "desO": "gemischter Salat",
             "zusatz": "",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -2792,17 +2778,17 @@
         "75": {
             "name": "Insalata Broccoli (klein)",
             "price": {
-                "stand": "8,00"
+                "stand": "7,50"
             },
             "desO": "Broccolisalat",
             "zusatz": "",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "8,00",
-                    "8,00",
-                    "8,00",
-                    "8,00"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -2866,17 +2852,17 @@
         "76": {
             "name": "Insalata di Tonno (klein)",
             "price": {
-                "stand": "8,00"
+                "stand": "7,50"
             },
             "desO": "Thunfisch mit Zwiebeln, Essig, Öl",
             "zusatz": "F",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "8,00",
-                    "8,00",
-                    "8,00",
-                    "8,00"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -3162,676 +3148,10 @@
         "80": {
             "name": "Insalata Borussia",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "gem. Salat, Schinken, Zwiebeln, Ei",
             "zusatz": "C,3,4,5",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "81": {
-            "name": "Insalata Pasticciata",
-            "price": {
-                "stand": "9,50"
-            },
-            "desO": "gem. Salat, Schinken, Ei, Thunfisch",
-            "zusatz": "C,F,3,4,5",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "82": {
-            "name": "Insalata della Casa",
-            "price": {
-                "stand": "9,50"
-            },
-            "desO": "gemischter Salat, Schinken, Käse, Ei, Artischocken",
-            "zusatz": "B,C,3,4,5",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "83": {
-            "name": "Insalata America",
-            "price": {
-                "stand": "9,50"
-            },
-            "desO": "gem. Salat, Schinken, Krabben, Mais",
-            "zusatz": "K,3,4,5",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "84": {
-            "name": "Insalata Paesana",
-            "price": {
-                "stand": "9,00"
-            },
-            "desO": "gem. Salat, Thunfisch, Mais, Ei",
-            "zusatz": "C,F",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "85": {
-            "name": "Insalata Nicosia",
-            "price": {
-                "stand": "9,00"
-            },
-            "desO": "gem. Salat, Thunfisch, Ei",
-            "zusatz": "C,F",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "86": {
-            "name": "Bauernsalat",
-            "price": {
-                "stand": "9,00"
-            },
-            "desO": "gem. Salat, mit Schafskäse, Oliven, Zwiebeln, Peperoni, Öl & Essig",
-            "zusatz": "4,11,B",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "87": {
-            "name": "Insalata Capricciosa",
-            "price": {
-                "stand": "9,50"
-            },
-            "desO": "gem. Salat mit Thunfisch, Schinken, Käse",
-            "zusatz": "B,F,3,4,5,1",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "88": {
-            "name": "Insalata Forestale",
-            "price": {
-                "stand": "9,00"
-            },
-            "desO": "gem. Salat, Zwiebeln, Champignons, Ei",
-            "zusatz": "C",
-            "section": "Salat",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ],
-            "options": {
-                "Dressing": {
-                    "name": "Dressing",
-                    "showprice": false,
-                    "options": {
-                        "Essig / Öl": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "Hausdressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        },
-                        "ohne Dressing": {
-                            "priceV2": {
-                                "stand": [
-                                    "0,00",
-                                    "0,00",
-                                    "0,00",
-                                    "0,00"
-                                ]
-                            },
-                            "stype": [
-                                0,
-                                1
-                            ],
-                            "price": "0,00"
-                        }
-                    }
-                }
-            }
-        },
-        "89": {
-            "name": "Insalata Mista all’Italiano",
-            "price": {
-                "stand": "8,50"
-            },
-            "desO": "gem. Salat mit fr. Paprika, Oliven, Zwiebeln, mit Essig & Öl",
-            "zusatz": "",
             "section": "Salat",
             "priceV2": {
                 "stand": [
@@ -3899,13 +3219,87 @@
                 }
             }
         },
-        "90": {
-            "name": "Insalata Piccola",
+        "81": {
+            "name": "Insalata Pasticciata",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "gem. Salat, Schinken, Ei, Thunfisch",
+            "zusatz": "C,F,3,4,5",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "82": {
+            "name": "Insalata della Casa",
             "price": {
                 "stand": "9,00"
             },
-            "desO": "gem. Salat mit Thunfisch, Zwiebeln, Spargel",
-            "zusatz": "F",
+            "desO": "gemischter Salat, Schinken, Käse, Ei, Artischocken",
+            "zusatz": "B,C,3,4,5",
             "section": "Salat",
             "priceV2": {
                 "stand": [
@@ -3913,6 +3307,598 @@
                     "9,00",
                     "9,00",
                     "9,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "83": {
+            "name": "Insalata America",
+            "price": {
+                "stand": "9,00"
+            },
+            "desO": "gem. Salat, Schinken, Krabben, Mais",
+            "zusatz": "K,3,4,5",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "84": {
+            "name": "Insalata Paesana",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "gem. Salat, Thunfisch, Mais, Ei",
+            "zusatz": "C,F",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "85": {
+            "name": "Insalata Nicosia",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "gem. Salat, Thunfisch, Ei",
+            "zusatz": "C,F",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "86": {
+            "name": "Bauernsalat",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "gem. Salat, mit Schafskäse, Oliven, Zwiebeln, Peperoni, Öl & Essig",
+            "zusatz": "4,11,B",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "87": {
+            "name": "Insalata Capricciosa",
+            "price": {
+                "stand": "9,00"
+            },
+            "desO": "gem. Salat mit Thunfisch, Schinken, Käse",
+            "zusatz": "B,F,3,4,5,1",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "88": {
+            "name": "Insalata Forestale",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "gem. Salat, Zwiebeln, Champignons, Ei",
+            "zusatz": "C",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "89": {
+            "name": "Insalata Mista all’Italiano",
+            "price": {
+                "stand": "9,00"
+            },
+            "desO": "gem. Salat mit fr. Paprika, Oliven, Zwiebeln, mit Essig & Öl",
+            "zusatz": "",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ],
+            "options": {
+                "Dressing": {
+                    "name": "Dressing",
+                    "showprice": false,
+                    "options": {
+                        "Essig / Öl": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "Hausdressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        },
+                        "ohne Dressing": {
+                            "priceV2": {
+                                "stand": [
+                                    "0,00",
+                                    "0,00",
+                                    "0,00",
+                                    "0,00"
+                                ]
+                            },
+                            "stype": [
+                                0,
+                                1
+                            ],
+                            "price": "0,00"
+                        }
+                    }
+                }
+            }
+        },
+        "90": {
+            "name": "Insalata Piccola",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "gem. Salat mit Thunfisch, Zwiebeln, Spargel",
+            "zusatz": "F",
+            "section": "Salat",
+            "priceV2": {
+                "stand": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -4198,17 +4184,17 @@
         "94": {
             "name": "Insalata Cosenza",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "gem. Salat, Mozzarella, Krabben, Ei, Mais",
             "zusatz": "B,C,K",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -4420,17 +4406,17 @@
         "97": {
             "name": "Insalata Riviera",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "gem. Salat, Meeresfrüchte, Essig, Öl",
             "zusatz": "F,H",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -4494,17 +4480,17 @@
         "98": {
             "name": "Insalata Mediterran",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "gem. Salat, Krabben, Artischocken",
             "zusatz": "K",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -4568,17 +4554,17 @@
         "99": {
             "name": "Insalata Campagnola",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "gem. Salat, Mais, Oliven, Zwiebeln, Krabben, Champignons, Käse, Ei, Spargel, frischer Paprika",
             "zusatz": "1,11,B,C,K",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -4642,17 +4628,17 @@
         "100": {
             "name": "Kartoffelsalat",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "Kartoffeln, grüner Salat, Mais, Ei, Zwiebeln, Speck und Hausdressing",
             "zusatz": "",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -4716,31 +4702,31 @@
         "101": {
             "name": "Pizza Teramo",
             "price": {
-                "24cm": "8,50",
-                "30cm": "9,50",
-                "40cm": "18,00"
+                "24cm": "9,00",
+                "30cm": "10,00",
+                "40cm": "19,00"
             },
             "desO": "Hähnchenfleisch, Tomaten FR, Peperoni, Hollandaise",
             "zusatz": "1,A,B,C",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ],
                 "30cm": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ],
                 "40cm": [
-                    "18,00",
-                    "18,00",
-                    "18,00",
-                    "18,00"
+                    "19,00",
+                    "19,00",
+                    "19,00",
+                    "19,00"
                 ]
             },
             "stype": [
@@ -4821,31 +4807,66 @@
         "104": {
             "name": "Bari",
             "price": {
-                "24cm": "9,50",
-                "30cm": "10,50",
-                "40cm": "20,00"
+                "24cm": "8,50",
+                "30cm": "9,50",
+                "40cm": "19,00"
             },
             "desO": "Lachs, Käse, Tomatensouce",
             "zusatz": "7,8,A,B,F",
             "section": "Pizza",
             "priceV2": {
                 "24cm": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ],
+                "30cm": [
                     "9,50",
                     "9,50",
                     "9,50",
                     "9,50"
                 ],
+                "40cm": [
+                    "19,00",
+                    "19,00",
+                    "19,00",
+                    "19,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "105": {
+            "name": "Döner Pizza",
+            "price": {
+                "24cm": "8,50",
+                "30cm": "9,50",
+                "40cm": "18,00"
+            },
+            "desO": "Dönerfleisch, Käse, Tomatensouce",
+            "zusatz": "1,7,8,A,B,C,F",
+            "section": "Pizza",
+            "priceV2": {
+                "24cm": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ],
                 "30cm": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "9,50",
+                    "9,50",
+                    "9,50",
+                    "9,50"
                 ],
                 "40cm": [
-                    "20,00",
-                    "20,00",
-                    "20,00",
-                    "20,00"
+                    "18,00",
+                    "18,00",
+                    "18,00",
+                    "18,00"
                 ]
             },
             "stype": [
@@ -4877,9 +4898,30 @@
         "111": {
             "name": "Spaghetti Napoli",
             "price": {
-                "stand": "8,50"
+                "stand": "8,00"
             },
             "desO": "Tomatensoße",
+            "zusatz": "A",
+            "section": "Spaghetti",
+            "priceV2": {
+                "stand": [
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "112": {
+            "name": "Spaghetti Bologna",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "Hackfleischsoße",
             "zusatz": "A",
             "section": "Spaghetti",
             "priceV2": {
@@ -4895,41 +4937,20 @@
                 1
             ]
         },
-        "112": {
-            "name": "Spaghetti Bologna",
-            "price": {
-                "stand": "9,00"
-            },
-            "desO": "Hackfleischsoße",
-            "zusatz": "A",
-            "section": "Spaghetti",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ]
-        },
         "113": {
             "name": "Spaghetti Carbonara",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Ei, Pfeffer, Sahnesauce",
             "zusatz": "A,B,C,3,4,5",
             "section": "Spaghetti",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -4961,17 +4982,17 @@
         "115": {
             "name": "Spaghetti Amatriciana",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Zwiebeln, Tomatensauce, scharf",
             "zusatz": "A,B,2,3,4,5",
             "section": "Spaghetti",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5024,17 +5045,17 @@
         "118": {
             "name": "Spaghetti Tonno",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Thunfisch, Tomatensauce",
             "zusatz": "A,B,F",
             "section": "Spaghetti",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5108,17 +5129,17 @@
         "123": {
             "name": "Spaghetti Rimini",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "mit Champig., Schinken, Sahnesauce",
             "zusatz": "A,B,3,4,5",
             "section": "Spaghetti",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5150,9 +5171,30 @@
         "125": {
             "name": "Maccheroni Napoli",
             "price": {
-                "stand": "8,50"
+                "stand": "8,00"
             },
             "desO": "Tomatensauce",
+            "zusatz": "A",
+            "section": "Rohrnudeln",
+            "priceV2": {
+                "stand": [
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "126": {
+            "name": "Maccheroni Bologna",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "Hackfleischsauce",
             "zusatz": "A",
             "section": "Rohrnudeln",
             "priceV2": {
@@ -5168,41 +5210,20 @@
                 1
             ]
         },
-        "126": {
-            "name": "Maccheroni Bologna",
-            "price": {
-                "stand": "9,00"
-            },
-            "desO": "Hackfleischsauce",
-            "zusatz": "A",
-            "section": "Rohrnudeln",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ]
-        },
         "127": {
             "name": "Maccheroni Panna",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Sahnesauce",
             "zusatz": "A,B,3,4,5",
             "section": "Rohrnudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5213,17 +5234,17 @@
         "128": {
             "name": "Maccheroni Rimini",
             "price": {
-                "stand": "9,50"
+                "stand": "8,50"
             },
             "desO": "Schinken, Champign., Sahnesauce",
             "zusatz": "A,B,3,4,5",
             "section": "Rohrnudeln",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5255,17 +5276,17 @@
         "130": {
             "name": "Rigatoni Allrarrabiata",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Tomatensauce, scharf",
             "zusatz": "A,B,2,3,4,5",
             "section": "Rohrnudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5276,17 +5297,17 @@
         "131": {
             "name": "Rigatoni Piccolo",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Zwiebeln, Champignons, Tomatensauce",
             "zusatz": "A,B",
             "section": "Rohrnudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5297,17 +5318,17 @@
         "132": {
             "name": "Rigatoni Broccoli",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Broccoli, Knoblauch, Sahnesauce",
             "zusatz": "A,B",
             "section": "Rohrnudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5339,9 +5360,30 @@
         "134": {
             "name": "Tortellini Napoli",
             "price": {
-                "stand": "8,50"
+                "stand": "8,00"
             },
             "desO": "Tomatensauce",
+            "zusatz": "A",
+            "section": "Taschennudeln",
+            "priceV2": {
+                "stand": [
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "135": {
+            "name": "Tortellini Bologna",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "Hackfleischsauce",
             "zusatz": "A",
             "section": "Taschennudeln",
             "priceV2": {
@@ -5357,41 +5399,20 @@
                 1
             ]
         },
-        "135": {
-            "name": "Tortellini Bologna",
-            "price": {
-                "stand": "9,00"
-            },
-            "desO": "Hackfleischsauce",
-            "zusatz": "A",
-            "section": "Taschennudeln",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ]
-        },
         "136": {
             "name": "Tortellini Rimini",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Champignons, Sahnesauce",
             "zusatz": "A,3,4,5",
             "section": "Taschennudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5402,17 +5423,17 @@
         "137": {
             "name": "Tortellini Alfredo",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Erbsen, Tomatensauce",
             "zusatz": "A,4,5",
             "section": "Taschennudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5444,17 +5465,17 @@
         "139": {
             "name": "Tortellini Gorgonzola",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Gorgonzolasahnesauce",
             "zusatz": "A,B,C",
             "section": "Taschennudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5465,17 +5486,17 @@
         "140": {
             "name": "Tortellini Panna",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Sahnesauce",
             "zusatz": "A,B,3,4,5",
             "section": "Taschennudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5507,17 +5528,17 @@
         "142": {
             "name": "Tortellini Fabio",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "Zwiebeln, Ei, Schinken, Sahnesauce",
             "zusatz": "A,B,C,2,3,4,5",
             "section": "Taschennudeln",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -5528,17 +5549,17 @@
         "143": {
             "name": "Tortellini Curry",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "Krabben in Currysahnesauce",
             "zusatz": "A,B",
             "section": "Taschennudeln",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -5549,17 +5570,17 @@
         "144": {
             "name": "Tortellini ai Funghi",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Champignons, Sahnesauce",
             "zusatz": "A,B",
             "section": "Taschennudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5612,9 +5633,30 @@
         "147": {
             "name": "Tagliatelle Napoli",
             "price": {
-                "stand": "8,50"
+                "stand": "8,00"
             },
             "desO": "Tomatensauce",
+            "zusatz": "A,B",
+            "section": "Bandnudeln",
+            "priceV2": {
+                "stand": [
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "148": {
+            "name": "Tagliatelle Bologna",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "Hackfleischsauce",
             "zusatz": "A,B",
             "section": "Bandnudeln",
             "priceV2": {
@@ -5630,41 +5672,20 @@
                 1
             ]
         },
-        "148": {
-            "name": "Tagliatelle Bologna",
-            "price": {
-                "stand": "9,00"
-            },
-            "desO": "Hackfleischsauce",
-            "zusatz": "A,B",
-            "section": "Bandnudeln",
-            "priceV2": {
-                "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ]
-        },
         "149": {
             "name": "Tagliatelle Rimini",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Champignons, Sahnesauce",
             "zusatz": "A,B,C,3,4,5",
             "section": "Bandnudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5675,17 +5696,17 @@
         "150": {
             "name": "Tagliatelle Panna",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Schinken, Sahnesauce",
             "zusatz": "A,B,C,3,4,5",
             "section": "Bandnudeln",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5738,17 +5759,17 @@
         "153": {
             "name": "Gnocchi Gorgonzola",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Gorgonzola in Sahnesauce",
             "zusatz": "A,B",
             "section": "Kartoffelnudel",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5759,17 +5780,17 @@
         "154": {
             "name": "Gnocchi Rimini",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "Schinken, Champignons, Erbsen, Sahnesoße",
             "zusatz": "3,4,5",
             "section": "Kartoffelnudel",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -5801,17 +5822,17 @@
         "156": {
             "name": "Gnocci Bologna",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "Bolognesesauce",
             "zusatz": "A,B,5",
             "section": "Kartoffelnudel",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -5843,17 +5864,17 @@
         "170": {
             "name": "Spaghetti Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Schinken, Ei, Champignons",
             "zusatz": "A,B,C,3,4,5",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -5864,17 +5885,17 @@
         "171": {
             "name": "Spaghetti 4 Formaggio",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "4 Käsesorten",
             "zusatz": "1",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -5885,17 +5906,17 @@
         "173": {
             "name": "Tagliatelle Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "4 Käsesorten",
             "zusatz": "A,B,C,1",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -5906,17 +5927,17 @@
         "174": {
             "name": "Maccheroni 4 Formaggio",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "4 Käsesorten",
             "zusatz": "A,B,1",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -5927,17 +5948,17 @@
         "175": {
             "name": "Maccheroni Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Schinken, Champignons, Ei",
             "zusatz": "A,B,C,3,4,5",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -5948,17 +5969,17 @@
         "176": {
             "name": "Lasagne",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Fleischsauce",
             "zusatz": "A,B",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -5969,17 +5990,17 @@
         "177": {
             "name": "Cannelloni al Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "gefüllt mit Spinat",
             "zusatz": "A,B",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -5990,17 +6011,17 @@
         "178": {
             "name": "Combinazione",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Tortellini, Cannelloni & Lasagne",
             "zusatz": "A,B,C",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6011,17 +6032,17 @@
         "179": {
             "name": "Tortellini Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Schinken, Ei, Sahne, Champignons",
             "zusatz": "A,B,C,3,4,5",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6032,17 +6053,17 @@
         "180": {
             "name": "Tornado Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Maccheroni in Thunfisch-Tomatensahnesauce, scharf",
             "zusatz": "A,B,C,F",
             "section": "Pasta al Forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6074,17 +6095,17 @@
         "190": {
             "name": "Spinaci Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Spinat, Knoblauch, Käse, Tomaten-Sahnesauce",
             "zusatz": "B,1",
             "section": "Verdura al forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6102,10 +6123,10 @@
             "section": "Verdura al forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6116,17 +6137,17 @@
         "192": {
             "name": "Broccoli al Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Brokkoli, Knoblauch, Tomatensauce mit Käse",
             "zusatz": "B,1",
             "section": "Verdura al forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6137,17 +6158,17 @@
         "193": {
             "name": "Zuccàhini Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Käse, Tomatensauce, Knoblauch, Gewürze",
             "zusatz": "B,1",
             "section": "Verdura al forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6179,17 +6200,17 @@
         "195": {
             "name": "Combiazone di Verdura",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Käse, Tomaten, Knoblauch",
             "zusatz": "B,1",
             "section": "Verdura al forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6221,17 +6242,17 @@
         "198": {
             "name": "Kartoffeln al Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Spinat, Tomaten, Sahnesauce, Käse überbacken",
             "zusatz": "1",
             "section": "Verdura al forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6242,17 +6263,17 @@
         "199": {
             "name": "Kartoffeln al Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Brokkoli, Tomaten, Sahnesauce",
             "zusatz": "",
             "section": "Verdura al forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6263,17 +6284,17 @@
         "200": {
             "name": "Kartoffeln al Forno",
             "price": {
-                "stand": "10,50"
+                "stand": "10,00"
             },
             "desO": "Schinken, Zwiebeln, scharf, Tomatensauce",
             "zusatz": "2,3,4,5",
             "section": "Verdura al forno",
             "priceV2": {
                 "stand": [
-                    "10,50",
-                    "10,50",
-                    "10,50",
-                    "10,50"
+                    "10,00",
+                    "10,00",
+                    "10,00",
+                    "10,00"
                 ]
             },
             "stype": [
@@ -6284,17 +6305,17 @@
         "211": {
             "name": "Gorgonzola",
             "price": {
-                "stand": "14,00"
+                "stand": "13,50"
             },
             "desO": "mit Gorgonzola",
             "zusatz": "A,B",
             "section": "Putenschnitzel",
             "priceV2": {
                 "stand": [
-                    "14,00",
-                    "14,00",
-                    "14,00",
-                    "14,00"
+                    "13,50",
+                    "13,50",
+                    "13,50",
+                    "13,50"
                 ]
             },
             "stype": [
@@ -6362,17 +6383,17 @@
         "212": {
             "name": "alla Milanese",
             "price": {
-                "stand": "13,50"
+                "stand": "13,00"
             },
             "desO": "Schnitzel nach Wiener Art",
             "zusatz": "A,B,C,c",
             "section": "Putenschnitzel",
             "priceV2": {
                 "stand": [
-                    "13,50",
-                    "13,50",
-                    "13,50",
-                    "13,50"
+                    "13,00",
+                    "13,00",
+                    "13,00",
+                    "13,00"
                 ]
             },
             "stype": [
@@ -6510,17 +6531,17 @@
         "216": {
             "name": "Bologna",
             "price": {
-                "stand": "15,00"
+                "stand": "14,50"
             },
             "desO": "Schinken, Käse, Hackfleischsauce",
             "zusatz": "A,B,1,3,4,5",
             "section": "Putenschnitzel",
             "priceV2": {
                 "stand": [
-                    "15,00",
-                    "15,00",
-                    "15,00",
-                    "15,00"
+                    "14,50",
+                    "14,50",
+                    "14,50",
+                    "14,50"
                 ]
             },
             "stype": [
@@ -6584,17 +6605,17 @@
         "217": {
             "name": "Hawaii Special",
             "price": {
-                "stand": "15,00"
+                "stand": "14,50"
             },
             "desO": "Schinken, Ananas, Käse, Sahnesauce",
             "zusatz": "A,B,1,3,4,5,13",
             "section": "Putenschnitzel",
             "priceV2": {
                 "stand": [
-                    "15,00",
-                    "15,00",
-                    "15,00",
-                    "15,00"
+                    "14,50",
+                    "14,50",
+                    "14,50",
+                    "14,50"
                 ]
             },
             "stype": [
@@ -6658,17 +6679,17 @@
         "218": {
             "name": "Cipolla",
             "price": {
-                "stand": "14,00"
+                "stand": "13,50"
             },
             "desO": "Zwiebeln",
             "zusatz": "A,B",
             "section": "Putenschnitzel",
             "priceV2": {
                 "stand": [
-                    "14,00",
-                    "14,00",
-                    "14,00",
-                    "14,00"
+                    "13,50",
+                    "13,50",
+                    "13,50",
+                    "13,50"
                 ]
             },
             "stype": [
@@ -6732,17 +6753,17 @@
         "219": {
             "name": "Pepe Verde",
             "price": {
-                "stand": "14,00"
+                "stand": "13,50"
             },
             "desO": "Grüner Pfeffer, Sahnesauce",
             "zusatz": "A,B",
             "section": "Putenschnitzel",
             "priceV2": {
                 "stand": [
-                    "14,00",
-                    "14,00",
-                    "14,00",
-                    "14,00"
+                    "13,50",
+                    "13,50",
+                    "13,50",
+                    "13,50"
                 ]
             },
             "stype": [
@@ -7028,17 +7049,17 @@
         "223": {
             "name": "Broccoli",
             "price": {
-                "stand": "14,50"
+                "stand": "13,50"
             },
             "desO": "Broccoli & Sahnesoße",
             "zusatz": "A,B",
             "section": "Putenschnitzel",
             "priceV2": {
                 "stand": [
-                    "14,50",
-                    "14,50",
-                    "14,50",
-                    "14,50"
+                    "13,50",
+                    "13,50",
+                    "13,50",
+                    "13,50"
                 ]
             },
             "stype": [
@@ -7102,17 +7123,17 @@
         "230": {
             "name": "Pizza-Brötchen",
             "price": {
-                "stand": "4,00"
+                "stand": "3,50"
             },
             "desO": "6 Stück mit frischer Kräuterbutter",
             "zusatz": "A,B,C",
             "section": "Beilagen",
             "priceV2": {
                 "stand": [
-                    "4,00",
-                    "4,00",
-                    "4,00",
-                    "4,00"
+                    "3,50",
+                    "3,50",
+                    "3,50",
+                    "3,50"
                 ]
             },
             "stype": [
@@ -7123,17 +7144,17 @@
         "239": {
             "name": "Basis Baguette",
             "price": {
-                "stand": "6,50"
+                "stand": "7,00"
             },
             "desO": "Käse, Tomaten, Gurken, Remoulade, Salat",
             "zusatz": "A,B,C,G,1",
             "section": "Baguettes",
             "priceV2": {
                 "stand": [
-                    "6,50",
-                    "6,50",
-                    "6,50",
-                    "6,50"
+                    "7,00",
+                    "7,00",
+                    "7,00",
+                    "7,00"
                 ]
             },
             "stype": [
@@ -7186,17 +7207,17 @@
         "242": {
             "name": "Roma",
             "price": {
-                "stand": "8,00"
+                "stand": "7,50"
             },
             "desO": "Salami, Ei",
             "zusatz": "A,B,C,G",
             "section": "Baguettes",
             "priceV2": {
                 "stand": [
-                    "8,00",
-                    "8,00",
-                    "8,00",
-                    "8,00"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -7207,17 +7228,17 @@
         "243": {
             "name": "Piccol",
             "price": {
-                "stand": "8,00"
+                "stand": "7,50"
             },
             "desO": "Schinken, Ei",
             "zusatz": "A,B,C,G,3,4,5",
             "section": "Baguettes",
             "priceV2": {
                 "stand": [
-                    "8,00",
-                    "8,00",
-                    "8,00",
-                    "8,00"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -7228,17 +7249,17 @@
         "244": {
             "name": "Dolomiti",
             "price": {
-                "stand": "8,50"
+                "stand": "7,50"
             },
             "desO": "Schinken, Thunfisch",
             "zusatz": "A,B,C,G,3,4,5",
             "section": "Baguettes",
             "priceV2": {
                 "stand": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -7249,17 +7270,17 @@
         "245": {
             "name": "Michelangelo",
             "price": {
-                "stand": "8,50"
+                "stand": "8,00"
             },
             "desO": "Thunfisch, Mais, Schinken",
             "zusatz": "A,B,C,F,G,3,4,5",
             "section": "Baguettes",
             "priceV2": {
                 "stand": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "8,00",
+                    "8,00",
+                    "8,00",
+                    "8,00"
                 ]
             },
             "stype": [
@@ -7354,17 +7375,17 @@
         "250": {
             "name": "Baguette",
             "price": {
-                "stand": "8,00"
+                "stand": "8,50"
             },
             "desO": "Sucuk",
             "zusatz": "A,B,C,G,1,2,3,44",
             "section": "Baguettes",
             "priceV2": {
                 "stand": [
-                    "8,00",
-                    "8,00",
-                    "8,00",
-                    "8,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -7375,17 +7396,17 @@
         "251": {
             "name": "Hähnchen",
             "price": {
-                "stand": "8,00"
+                "stand": "8,50"
             },
             "desO": "mit Hähnchenbrust",
             "zusatz": "A,B,C,3,4,5",
             "section": "Baguettes",
             "priceV2": {
                 "stand": [
-                    "8,00",
-                    "8,00",
-                    "8,00",
-                    "8,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -7417,27 +7438,6 @@
         "262": {
             "name": "Bier Bitburger",
             "price": {
-                "stand": "3,50"
-            },
-            "desO": "",
-            "zusatz": "",
-            "section": "Getränke",
-            "priceV2": {
-                "stand": [
-                    "3,50",
-                    "3,50",
-                    "3,50",
-                    "3,50"
-                ]
-            },
-            "stype": [
-                1,
-                1
-            ]
-        },
-        "263": {
-            "name": "Durstlöscher orange",
-            "price": {
                 "stand": "2,50"
             },
             "desO": "",
@@ -7449,6 +7449,27 @@
                     "2,50",
                     "2,50",
                     "2,50"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "263": {
+            "name": "Durstlöscher orange",
+            "price": {
+                "stand": "1,50"
+            },
+            "desO": "",
+            "zusatz": "",
+            "section": "Getränke",
+            "priceV2": {
+                "stand": [
+                    "1,50",
+                    "1,50",
+                    "1,50",
+                    "1,50"
                 ]
             },
             "stype": [
@@ -7501,17 +7522,17 @@
         "266": {
             "name": "Jumbo Cheese",
             "price": {
-                "stand": "10,00"
+                "stand": "11,00"
             },
             "desO": "doppelt Rindfleisch, Käse, Tomaten, Zwiebeln, Sauergurken",
             "zusatz": "",
             "section": "Burger",
             "priceV2": {
                 "stand": [
-                    "10,00",
-                    "10,00",
-                    "10,00",
-                    "10,00"
+                    "11,00",
+                    "11,00",
+                    "11,00",
+                    "11,00"
                 ]
             },
             "stype": [
@@ -7582,20 +7603,83 @@
                 1
             ]
         },
+        "270": {
+            "name": "Chickenburger",
+            "price": {
+                "stand": "8,50"
+            },
+            "desO": "Tomaten, Zwiebeln, Sauergurken",
+            "zusatz": "",
+            "section": "Burger",
+            "priceV2": {
+                "stand": [
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "271": {
+            "name": "Cheeseburger Menü",
+            "price": {
+                "stand": "12,00"
+            },
+            "desO": "Cheeseburger mit Pommes und Getränk nach Wahl",
+            "zusatz": "",
+            "section": "Burger",
+            "priceV2": {
+                "stand": [
+                    "12,00",
+                    "12,00",
+                    "12,00",
+                    "12,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
+        "272": {
+            "name": "Jumbo Cheese Menü",
+            "price": {
+                "stand": "14,00"
+            },
+            "desO": "Jumbo Cheese Burger mit Pommes und Getränk nach Wahl",
+            "zusatz": "",
+            "section": "Burger",
+            "priceV2": {
+                "stand": [
+                    "14,00",
+                    "14,00",
+                    "14,00",
+                    "14,00"
+                ]
+            },
+            "stype": [
+                1,
+                1
+            ]
+        },
         "275": {
             "name": "Pommes",
             "price": {
-                "stand": "4,50"
+                "stand": "3,50"
             },
             "desO": "",
             "zusatz": "A,B",
             "section": "Beilagen",
             "priceV2": {
                 "stand": [
-                    "4,50",
-                    "4,50",
-                    "4,50",
-                    "4,50"
+                    "3,50",
+                    "3,50",
+                    "3,50",
+                    "3,50"
                 ]
             },
             "stype": [
@@ -7606,17 +7690,17 @@
         "276": {
             "name": "Kroketten",
             "price": {
-                "stand": "4,50"
+                "stand": "4,00"
             },
             "desO": "",
             "zusatz": "A,B",
             "section": "Beilagen",
             "priceV2": {
                 "stand": [
-                    "4,50",
-                    "4,50",
-                    "4,50",
-                    "4,50"
+                    "4,00",
+                    "4,00",
+                    "4,00",
+                    "4,00"
                 ]
             },
             "stype": [
@@ -7648,17 +7732,17 @@
         "281": {
             "name": "Amerikanische Pomme",
             "price": {
-                "stand": "4,50"
+                "stand": "3,50"
             },
             "desO": "",
             "zusatz": "B",
             "section": "Beilagen",
             "priceV2": {
                 "stand": [
-                    "4,50",
-                    "4,50",
-                    "4,50",
-                    "4,50"
+                    "3,50",
+                    "3,50",
+                    "3,50",
+                    "3,50"
                 ]
             },
             "stype": [
@@ -7669,17 +7753,17 @@
         "282": {
             "name": "kl. Insalata Mista",
             "price": {
-                "stand": "4,50"
+                "stand": "4,00"
             },
             "desO": "",
             "zusatz": "",
             "section": "Beilagen",
             "priceV2": {
                 "stand": [
-                    "4,50",
-                    "4,50",
-                    "4,50",
-                    "4,50"
+                    "4,00",
+                    "4,00",
+                    "4,00",
+                    "4,00"
                 ]
             },
             "stype": [
@@ -7690,17 +7774,17 @@
         "283": {
             "name": "Aioli, Kräuterbutter",
             "price": {
-                "stand": "2,00"
+                "stand": "1,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Beilagen",
             "priceV2": {
                 "stand": [
-                    "2,00",
-                    "2,00",
-                    "2,00",
-                    "2,00"
+                    "1,50",
+                    "1,50",
+                    "1,50",
+                    "1,50"
                 ]
             },
             "stype": [
@@ -7711,17 +7795,17 @@
         "284": {
             "name": "Saucen",
             "price": {
-                "stand": "1,75"
+                "stand": "1,50"
             },
             "desO": "Curry, Süß-Sauer, Chili",
             "zusatz": "",
             "section": "Beilagen",
             "priceV2": {
                 "stand": [
-                    "1,75",
-                    "1,75",
-                    "1,75",
-                    "1,75"
+                    "1,50",
+                    "1,50",
+                    "1,50",
+                    "1,50"
                 ]
             },
             "stype": [
@@ -7732,7 +7816,7 @@
         "285": {
             "name": "Chicken Nuggets",
             "price": {
-                "6 Stücke": "5,00",
+                "6 Stücke": "4,00",
                 "12 Stücke": "8,00"
             },
             "desO": "6 Stücke inkl. 1 dipp | 12 Stücke inkl. 2 dipp",
@@ -7740,10 +7824,10 @@
             "section": "Beilagen",
             "priceV2": {
                 "6 Stücke": [
-                    "5,00",
-                    "5,00",
-                    "5,00",
-                    "5,00"
+                    "4,00",
+                    "4,00",
+                    "4,00",
+                    "4,00"
                 ],
                 "12 Stücke": [
                     "8,00",
@@ -7760,17 +7844,17 @@
         "290": {
             "name": "Lambrusco Rot lieblich (0,75 l)",
             "price": {
-                "stand": "8,50"
+                "stand": "7,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Getränke",
             "priceV2": {
                 "stand": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -7781,17 +7865,17 @@
         "291": {
             "name": "Frascati Weisswein trocken (0,75 l)",
             "price": {
-                "stand": "8,50"
+                "stand": "7,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Getränke",
             "priceV2": {
                 "stand": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "7,50",
+                    "7,50",
+                    "7,50",
+                    "7,50"
                 ]
             },
             "stype": [
@@ -7876,17 +7960,17 @@
         "301": {
             "name": "Insalata Piccolo",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "gem. Salat, Krabben, Oliven, Käse, Artischocken, Zwiebeln",
             "zusatz": "1,11,B,K",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -7950,17 +8034,17 @@
         "302": {
             "name": "Insalata Gianni",
             "price": {
-                "stand": "9,50"
+                "stand": "8,50"
             },
             "desO": "gem. Salat, Thunfisch, Spargel",
             "zusatz": "",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -8024,17 +8108,17 @@
         "303": {
             "name": "Insalata Lia",
             "price": {
-                "stand": "9,50"
+                "stand": "9,00"
             },
             "desO": "gem. Salat, Spargel, Ananas, Artischocken, Schinken",
             "zusatz": "3,4,5",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,50",
-                    "9,50",
-                    "9,50",
-                    "9,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -8098,17 +8182,17 @@
         "304": {
             "name": "Insalata Ele",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "gem. Salat, Krabben, Zwiebeln",
             "zusatz": "K",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -8320,17 +8404,17 @@
         "307": {
             "name": "Insalata Chef",
             "price": {
-                "stand": "9,00"
+                "stand": "8,50"
             },
             "desO": "gem. Salat, Thunfisch, Zwiebeln",
             "zusatz": "F",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "9,00",
-                    "9,00",
-                    "9,00",
-                    "9,00"
+                    "8,50",
+                    "8,50",
+                    "8,50",
+                    "8,50"
                 ]
             },
             "stype": [
@@ -8394,17 +8478,17 @@
         "308": {
             "name": "Bruschetta",
             "price": {
-                "stand": "8,50"
+                "stand": "9,00"
             },
             "desO": "fr. Tomatenwürfeln, zerieb. Kräuter in Knoblauchsauce, 6 Brötchen",
             "zusatz": "3,A,B,C",
             "section": "Salat",
             "priceV2": {
                 "stand": [
-                    "8,50",
-                    "8,50",
-                    "8,50",
-                    "8,50"
+                    "9,00",
+                    "9,00",
+                    "9,00",
+                    "9,00"
                 ]
             },
             "stype": [
@@ -8774,17 +8858,17 @@
         "A1": {
             "name": "2 Pizzen",
             "price": {
-                "stand": "20,50"
+                "stand": "22,00"
             },
             "desO": "2 Pizzen nach Wahl + 1 Salat Mista (incl. Pizzabrötchen mit Kräuterbutter)",
             "zusatz": "1,A,B,C",
             "section": "Angebote",
             "priceV2": {
                 "stand": [
-                    "20,50",
-                    "20,50",
-                    "20,50",
-                    "20,50"
+                    "22,00",
+                    "22,00",
+                    "22,00",
+                    "22,00"
                 ]
             },
             "stype": [
@@ -10913,17 +10997,17 @@
         "A2": {
             "name": "2 Familienpizza",
             "price": {
-                "stand": "20,50"
+                "stand": "22,00"
             },
             "desO": "1 Familienpizza nach Wahl + 1 Salat Mista (incl. Pizzabrötchen mit Kräuterbutter) + 1 Getränk nach Wahl",
             "zusatz": "1,A,B,C",
             "section": "Angebote",
             "priceV2": {
                 "stand": [
-                    "20,50",
-                    "20,50",
-                    "20,50",
-                    "20,50"
+                    "22,00",
+                    "22,00",
+                    "22,00",
+                    "22,00"
                 ]
             },
             "stype": [
@@ -12092,17 +12176,17 @@
         "230a": {
             "name": "Pizza-Brötchen",
             "price": {
-                "stand": "4,00"
+                "stand": "3,50"
             },
             "desO": "6 Stück mit Aioli",
             "zusatz": "A,B,C",
             "section": "Beilagen",
             "priceV2": {
                 "stand": [
-                    "4,00",
-                    "4,00",
-                    "4,00",
-                    "4,00"
+                    "3,50",
+                    "3,50",
+                    "3,50",
+                    "3,50"
                 ]
             },
             "stype": [
@@ -12113,24 +12197,24 @@
         "260a": {
             "name": "Sprite",
             "price": {
-                "1,0 l": "4,00",
-                "dose": "3,00"
+                "1,0 l": "3,00",
+                "dose": "2,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Getränke",
             "priceV2": {
                 "1,0 l": [
-                    "4,00",
-                    "4,00",
-                    "4,00",
-                    "4,00"
-                ],
-                "dose": [
                     "3,00",
                     "3,00",
                     "3,00",
                     "3,00"
+                ],
+                "dose": [
+                    "2,50",
+                    "2,50",
+                    "2,50",
+                    "2,50"
                 ]
             },
             "stype": [
@@ -12141,24 +12225,24 @@
         "260b": {
             "name": "Fanta",
             "price": {
-                "1,0 l": "4,00",
-                "dose": "3,00"
+                "1,0 l": "3,00",
+                "dose": "2,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Getränke",
             "priceV2": {
                 "1,0 l": [
-                    "4,00",
-                    "4,00",
-                    "4,00",
-                    "4,00"
-                ],
-                "dose": [
                     "3,00",
                     "3,00",
                     "3,00",
                     "3,00"
+                ],
+                "dose": [
+                    "2,50",
+                    "2,50",
+                    "2,50",
+                    "2,50"
                 ]
             },
             "stype": [
@@ -12169,24 +12253,24 @@
         "260c": {
             "name": "Cola light",
             "price": {
-                "1,0 l": "4,00",
-                "dose": "3,00"
+                "1,0 l": "3,00",
+                "dose": "2,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Getränke",
             "priceV2": {
                 "1,0 l": [
-                    "4,00",
-                    "4,00",
-                    "4,00",
-                    "4,00"
-                ],
-                "dose": [
                     "3,00",
                     "3,00",
                     "3,00",
                     "3,00"
+                ],
+                "dose": [
+                    "2,50",
+                    "2,50",
+                    "2,50",
+                    "2,50"
                 ]
             },
             "stype": [
@@ -12197,24 +12281,24 @@
         "260d": {
             "name": "Coca Cola",
             "price": {
-                "1,0 l": "4,00",
-                "dose": "3,00"
+                "1,0 l": "3,00",
+                "dose": "2,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Getränke",
             "priceV2": {
                 "1,0 l": [
-                    "4,00",
-                    "4,00",
-                    "4,00",
-                    "4,00"
-                ],
-                "dose": [
                     "3,00",
                     "3,00",
                     "3,00",
                     "3,00"
+                ],
+                "dose": [
+                    "2,50",
+                    "2,50",
+                    "2,50",
+                    "2,50"
                 ]
             },
             "stype": [
@@ -12225,24 +12309,24 @@
         "260e": {
             "name": "Wasser",
             "price": {
-                "1,0 l": "4,00",
-                "dose": "3,00"
+                "1,0 l": "3,00",
+                "dose": "2,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Getränke",
             "priceV2": {
                 "1,0 l": [
-                    "4,00",
-                    "4,00",
-                    "4,00",
-                    "4,00"
-                ],
-                "dose": [
                     "3,00",
                     "3,00",
                     "3,00",
                     "3,00"
+                ],
+                "dose": [
+                    "2,50",
+                    "2,50",
+                    "2,50",
+                    "2,50"
                 ]
             },
             "stype": [
@@ -12253,24 +12337,24 @@
         "260f": {
             "name": "Mezzo Mix",
             "price": {
-                "1,0 l": "4,00",
-                "dose": "3,00"
+                "1,0 l": "3,00",
+                "dose": "2,50"
             },
             "desO": "",
             "zusatz": "",
             "section": "Getränke",
             "priceV2": {
                 "1,0 l": [
-                    "4,00",
-                    "4,00",
-                    "4,00",
-                    "4,00"
-                ],
-                "dose": [
                     "3,00",
                     "3,00",
                     "3,00",
                     "3,00"
+                ],
+                "dose": [
+                    "2,50",
+                    "2,50",
+                    "2,50",
+                    "2,50"
                 ]
             },
             "stype": [
@@ -14420,17 +14504,17 @@
         "A4": {
             "name": "1 Nudelgericht",
             "price": {
-                "stand": "23,50"
+                "stand": "22,00"
             },
             "desO": "+ Pizza + Salat Mista + Getränk (incl. Pizzabrötchen mit Kräuterbutter)",
             "zusatz": "1,A,B,C",
             "section": "Angebote",
             "priceV2": {
                 "stand": [
-                    "23,50",
-                    "23,50",
-                    "23,50",
-                    "23,50"
+                    "22,00",
+                    "22,00",
+                    "22,00",
+                    "22,00"
                 ]
             },
             "stype": [
